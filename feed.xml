@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>miapulles.com</title>
-    <link href="https://miapulles.github.io/miapulles.github.io/feed.xml" rel="self" />
-    <link href="https://miapulles.github.io/miapulles.github.io" />
+    <link href="https://miapulles.github.io/feed.xml" rel="self" />
+    <link href="https://miapulles.github.io" />
     <updated>2026-05-02T15:21:32+02:00</updated>
     <author>
         <name>Mia Pulles</name>
     </author>
-    <id>https://miapulles.github.io/miapulles.github.io</id>
+    <id>https://miapulles.github.io</id>
 
     <entry>
         <title>Test post</title>
         <author>
             <name>Mia Pulles</name>
         </author>
-        <link href="https://miapulles.github.io/miapulles.github.io/test-post.html"/>
-        <id>https://miapulles.github.io/miapulles.github.io/test-post.html</id>
-        <media:content url="https://miapulles.github.io/miapulles.github.io/media/posts/1/Screenshot-2025-11-03-121944.png" medium="image" />
+        <link href="https://miapulles.github.io/test-post.html"/>
+        <id>https://miapulles.github.io/test-post.html</id>
+        <media:content url="https://miapulles.github.io/media/posts/1/Screenshot-2025-11-03-121944.png" medium="image" />
 
         <updated>2026-05-02T15:21:32+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://miapulles.github.io/miapulles.github.io/media/posts/1/Screenshot-2025-11-03-121944.png" alt="" />
+                        <img src="https://miapulles.github.io/media/posts/1/Screenshot-2025-11-03-121944.png" alt="" />
                     test ccontent
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://miapulles.github.io/miapulles.github.io/media/posts/1/Screenshot-2025-11-03-121944.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://miapulles.github.io/media/posts/1/Screenshot-2025-11-03-121944.png" class="type:primaryImage" alt="" /></p>
                 <p>test ccontent</p>
             ]]>
         </content>

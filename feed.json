@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "miapulles.com",
     "description": "",
-    "home_page_url": "https://miapulles.github.io/miapulles.github.io",
-    "feed_url": "https://miapulles.github.io/miapulles.github.io/feed.json",
+    "home_page_url": "https://miapulles.github.io",
+    "feed_url": "https://miapulles.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mia Pulles"
     },
     "items": [
         {
-            "id": "https://miapulles.github.io/miapulles.github.io/test-post.html",
-            "url": "https://miapulles.github.io/miapulles.github.io/test-post.html",
+            "id": "https://miapulles.github.io/test-post.html",
+            "url": "https://miapulles.github.io/test-post.html",
             "title": "Test post",
             "summary": "test ccontent",
             "content_html": "<p>test ccontent</p>",
-            "image": "https://miapulles.github.io/miapulles.github.io/media/posts/1/Screenshot-2025-11-03-121944.png",
+            "image": "https://miapulles.github.io/media/posts/1/Screenshot-2025-11-03-121944.png",
             "author": {
                 "name": "Mia Pulles"
             },
