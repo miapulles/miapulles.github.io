@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://miapulles.github.io/test-post.html",
-            "url": "https://miapulles.github.io/test-post.html",
+            "id": "https://miapulles.github.io/test-post/",
+            "url": "https://miapulles.github.io/test-post/",
             "title": "Test post",
             "summary": "test ccontent",
             "content_html": "<p>test ccontent</p>",
